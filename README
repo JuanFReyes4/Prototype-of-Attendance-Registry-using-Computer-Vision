@@ -1,1 +1,20 @@
-Creación de proyecto de prueba para la base de datos 
+# Attendance Registry System using Computer Vision
+
+This project is a **Facial Recognition-based Attendance Registry System** designed for the **Computer Science Department**. It leverages **Computer Vision techniques** to automatically detect and recognize professors’ faces and mark their attendance with minimal human intervention.
+
+## 🧠 Features
+
+- 🎯 **Face Detection** using OpenCV and Haar cascades or deep learning models.
+- 🏷️ **Face Recognition** through trained image datasets (e.g., LBPH, FaceNet).
+- 💾 **Database Integration** for storing attendance records (PostgreSQL).
+- 🧑‍🏫 **Professor Management**: Add and manage professors' face datasets.
+- 📅 **Real-time Attendance Logging** with timestamps.
+- 📊 **Reports & Logs**: View and export attendance history.
+
+## 🛠️ Technologies Used
+
+- **Python 3.10**
+- **OpenCV** – for face detection and recognition
+- **NumPy** – numerical operations
+- **PostgreSQL** – database storage
+- **React** – Frontend

@@ -1,1 +1,0 @@
-# Prototype-of-Attendance-Registry-using-Computer-Vision
